@@ -25,4 +25,4 @@ This application performs aggregate analysis and interactive querying on a large
 * **Language:** Scala, Java
 
 ---
-*For full details, please refer to the [Project Report PDF](./docs/Chicago_Crimes_Report.pdf).*
+*For full details, please refer to the [Project Report PDF](./docs/Relazione_Progetto_BigData.pdf).*
